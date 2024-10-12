@@ -1,0 +1,38 @@
+{
+  "hello": {
+    "message": "你好"
+  },
+  "open": {
+    "message": "打开"
+  },
+  "sidepanel": {
+    "message": "侧边栏"
+  },
+  "newtab": {
+    "message": "新标签页"
+  },
+  "tabs": {
+    "message": "标签页"
+  },
+  "options": {
+    "message": "选项"
+  },
+  "devtool": {
+    "message": "开发工具"
+  },
+  "background": {
+    "message": "后台"
+  },
+  "popup": {
+    "message": "弹窗"
+  },
+  "pane": {
+    "message": "窗格"
+  },
+  "extensionDescription": {
+    "message": "一个开箱即用的浏览器插件模板"
+  },
+  "extensionName": {
+    "message": "Plasmo模版"
+  }
+}

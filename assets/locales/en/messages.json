@@ -1,0 +1,41 @@
+{
+  "hello": {
+    "message": "Hello"
+  },
+  "open": {
+    "message": "Open"
+  },
+  "sidepanel": {
+    "message": "Side Panel"
+  },
+  "newtab": {
+    "message": "New Tab"
+  },
+  "tabs": {
+    "message": "Tabs"
+  },
+  "options": {
+    "message": "Options"
+  },
+  "devtool": {
+    "message": "DevTools"
+  },
+  "background": {
+    "message": "Background"
+  },
+  "popup": {
+    "message": "Popup"
+  },
+  "pane": {
+    "message": "Pane"
+  },
+  "panel": {
+    "message": "Panel"
+  },
+  "extensionDescription": {
+    "message": "An out of the box browser plugin template."
+  },
+  "extensionName": {
+    "message": "Plasmo Template"
+  }
+}
