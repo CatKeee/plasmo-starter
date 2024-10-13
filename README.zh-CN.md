@@ -2,6 +2,8 @@
 
 这是一个使用plasmo创建的浏览器插件开发模版项目。
 
+![screenshot](./screenshot.zh-CN.png)
+
 ## 开始使用
 
 首先，运行开发服务器：

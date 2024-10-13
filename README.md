@@ -2,6 +2,8 @@
 
 This is a browser extension development template project created with Plasmo.
 
+![screenshot](./screenshot.png)
+
 [中文文档](./README.zh-CN.md)
 
 ## Getting Started
